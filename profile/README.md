@@ -1,5 +1,6 @@
 # Hi there 👋
 ## Introduction
+<img width="1920" alt="Thumbnail" src="https://user-images.githubusercontent.com/47800225/172150116-24ac2d10-8a33-4ec8-845d-018943690b49.png">
 Welcome to our repository. Here you can see the capstone project that we developed, namely a health application to conduct an initial screening of the potential risk of diabetes. You can also find various information on preventing and managing diabetes and get recommendations for diabetes-friendly diary products. You can also set reminders to perform routine detections here, you can do all of this with the "Insul.in" application.
 
 ## Meet our teams
