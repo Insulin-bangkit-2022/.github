@@ -1,12 +1,24 @@
-## Hi there 👋
+# Hi there 👋
+## Introduction
+Welcome to our repository. Here you can see the capstone project that we developed, namely a health application to conduct an initial screening of the potential risk of diabetes. You can also find various information on preventing and managing diabetes and get recommendations for diabetes-friendly diary products. You can also set reminders to perform routine detections here, you can do all of this with the "Insul.in" application.
 
-<!--
+## Meet our teams
+#### Insulin Team - C22-PS029  
+1. Kharlos Davinci - A2172F1699  
+2. Aprianto - A2103G1420  
+3. Anastasia Berlianna Febiola - M7004F0219  
+4. Trisha Mediana - M2004F0230  
+5. Ghina Basatin Urfi - M2004F0233  
+6. I Gede Agung Cantona Suryabisana - C2113J1437
 
-**Here are some ideas to get you started:**
+## Our Progress
+We use notion as a medium for collaboration and brainstorming. Here's a peek from our notion page 👉🏻
+[bangkit.notion.site](https://bangkit.notion.site/0db9d955a3c5421fabaec2d74073f14b?v=2ad5aec202954fe38d144b5de7936f89)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our API's
+In this project we developed an API to present data on diabetes articles, recommended products that we recommend and the results of diabetes detection that users do. Here is a sample API we use
+| Purposes | Technology | visibility | URL |
+| --- | --- | --- |--- |
+| Article Data | Firebase Realtime Database | 🔓 public | https://insul-in-default-rtdb.firebaseio.com/article.json |
+| Recommendation Product Data | Firebase Realtime Database |  🔓 public | https://insul-in-default-rtdb.firebaseio.com/affiliation_product.json |
+| Diabetes Detection | Flask | 🔒 private | https://prediction-api-dot-capstone-project-349802.et.r.appspot.com |
