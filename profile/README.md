@@ -1,9 +1,15 @@
 # Hi there 👋
 ## 😆 Introduction
-<img width="1920" alt="Thumbnail" src="https://user-images.githubusercontent.com/47800225/172150116-24ac2d10-8a33-4ec8-845d-018943690b49.png">
+<a href="https://play.google.com/store/apps/details?id=com.insulin.app" ><img width="1920" alt="Thumbnail" src="https://user-images.githubusercontent.com/47800225/173065444-e2e1636f-5052-40b2-b204-d85d8bca50fd.png"></a>
 Welcome to our repository. Here you can see the capstone project that we developed, namely a health application to conduct an initial screening of the potential risk of diabetes. You can also find various information on preventing and managing diabetes and get recommendations for diabetes-friendly diary products. You can also set reminders to perform routine detections here, you can do all of this with the "Insul.in" application.
 
+### Download our apps on Google Play Store
+<a href="https://play.google.com/store/apps/details?id=com.insulin.app" ><img height="50" src="https://user-images.githubusercontent.com/47800225/173066426-45203b95-fc4e-4330-90dd-448685780001.png"/></a></br>
+
+
 ## ✨ Our Main Features
+<a href="https://play.google.com/store/apps/details?id=com.insulin.app" ><img width="1920" alt="a" src="https://user-images.githubusercontent.com/47800225/173065409-04795ac4-583c-437f-afb5-e9a0189a9d9a.png"></a>
+
 - [x] Early screening for Diabetes Disease
 - [x] Easy access to app & synced data online with google account
 - [x] Find near hospitals around you for emergency condition
